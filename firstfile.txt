@@ -5,3 +5,8 @@ Sivasankari
 Pushkar
 Bala Nivetha
 Sudha
+
+// From master making the changes from the 9th line to 12th line
+I created new repo with name "Project"
+I cloned it into my VD
+DID commands "cd", "ls", "cat", now editing one of the files "firstfile.txt"
